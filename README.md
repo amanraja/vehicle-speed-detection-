@@ -1,5 +1,7 @@
 # vehicle-speed-detection-
-Detect the speed of the vehicle in highway using image processing techique
-output of above code https://youtu.be/dTva3Wv684I
-please read the below research paper
-adapted from https://www.ijcseonline.org/pub_paper/124-IJCSE-06271.pdf
+Detect the speed of the vehicle in highway using image processing technique
+processed video of above code can be found at 
+https://youtu.be/dTva3Wv684I
+the following code is adapted from
+the below research paper
+https://www.ijcseonline.org/pub_paper/124-IJCSE-06271.pdf
